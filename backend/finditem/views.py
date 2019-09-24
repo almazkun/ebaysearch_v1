@@ -27,4 +27,13 @@ def homepageview(request):
         response = requests.get(url)
         to_text = response.text[28:-1]
         to_json = json.loads(to_text)
+        item = to_json.find_items_by_ids([itemIds[0]])
+        
+        for i in item:
+            print(["ITEM_ID"])
+        
     return render(request, "home.html", {"to_json": to_json})
+
+
+def find_items_by_ids(self, *args, **kwargs):
+        return self.findItemsByIds(*args, **kwargs)
