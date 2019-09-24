@@ -15,14 +15,15 @@ def homepageview(request):
         "callback": "_cb_findItemsByKeywords",
         "REST-PAYLOAD": "REST-PAYLOAD",
         "keywords": "",
-        "paginationInput": 10,
+        "pageNumber": 1,
+        "entriesPerPage": 10,
         "GLOBAL-ID": "EBAY-US",
         "siteid": "0",
     }
     
     if "keywords" in request.GET:
         ebay_conf.update({"keywords": request.GET["keywords"]})
-        url = "https://svcs.ebay.com/services/search/FindingService/v1?SECURITY-APPNAME={SECURITY-APPNAME}&OPERATION-NAME={OPERATION-NAME}&SERVICE-VERSION={SERVICE-VERSION}&RESPONSE-DATA-FORMAT={RESPONSE-DATA-FORMAT}&callback={callback}&REST-PAYLOAD&keywords={keywords}&paginationInput.entriesPerPage={paginationInput}&GLOBAL-ID={GLOBAL-ID}&siteid={siteid}".format(**ebay_conf)
+        url = "https://svcs.ebay.com/services/search/FindingService/v1?SECURITY-APPNAME={SECURITY-APPNAME}&OPERATION-NAME={OPERATION-NAME}&SERVICE-VERSION={SERVICE-VERSION}&RESPONSE-DATA-FORMAT={RESPONSE-DATA-FORMAT}&callback={callback}&REST-PAYLOAD&keywords={keywords}&paginationInput.pageNumber={pageNumber}&paginationInput.entriesPerPage={entriesPerPage}&GLOBAL-ID={GLOBAL-ID}&siteid={siteid}".format(**ebay_conf)
         response = requests.get(url)
         to_text = response.text[28:-1]
         to_json = json.loads(to_text)
