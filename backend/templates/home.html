@@ -14,7 +14,7 @@
             <p>Or, you can try our <a href="#">API</a></p>
         </div>
         <div class="bg-light p-4">
-            {% for y in to_json.findItemsByKeywordsResponse...0.item %}
+            {% for y in found_items.findItemsByKeywordsResponse.0.searchResult.0.item %}
                 <a href="{{ y.viewItemURL }}">{{ y.title }}</p>
             {% endfor %}
         </div>
