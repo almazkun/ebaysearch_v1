@@ -22,12 +22,8 @@ def api_request(keyword):
     return requests.get(url)
 
 
-def to_text(response):
-    return response.text
-
-
-def to_json(text):
-    return json.loads(text)
+def to_json(response):
+    return response.json()
 
 
 # For development only, not to make to many calls to the ebay_api
@@ -35,5 +31,13 @@ def to_json_development():
 
     with open("response.json", "r") as file:
         found_items = file.read()
-
     return json.loads(found_items)
+
+
+def json_items():
+    a = to_json_development()["findItemsByKeywordsResponse"][0]["searchResult"][0][
+        "item"
+    ]
+    for b in a:
+        print(b)
+    return a

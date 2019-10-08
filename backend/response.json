@@ -1,1 +1,1448 @@
-{"findItemsByKeywordsResponse":[{"ack":["Success"],"version":["1.13.0"],"timestamp":["2019-10-01T06:23:29.737Z"],"searchResult":[{"@count":"10","item":[{"itemId":["323794916597"],"title":["New Balance Men's 009 Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs1.ebaystatic.com\/pict\/04040_0.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-009-Shoes-Grey-\/323794916597?var=0"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"sellingState":["Active"],"timeLeft":["P0DT14H36M3S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2019-05-01T20:59:32.000Z"],"endTime":["2019-10-01T20:59:32.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["2947"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["323794916597"],"title":["New Balance Men's 009 Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs2.ebaystatic.com\/pict\/3237949165974040_2.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-009-Shoes-Grey-\/323794916597?var=512790678511"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"sellingState":["Active"],"timeLeft":["P0DT14H36M3S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2019-05-01T20:59:32.000Z"],"endTime":["2019-10-01T20:59:32.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["275"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"originalRetailPrice":[{"@currencyId":"USD","__value__":"69.99"}],"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["323794916597"],"title":["New Balance Men's 009 Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs2.ebaystatic.com\/pict\/3237949165974040_2.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-009-Shoes-Grey-\/323794916597?var=512790678509"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"sellingState":["Active"],"timeLeft":["P0DT14H36M3S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2019-05-01T20:59:32.000Z"],"endTime":["2019-10-01T20:59:32.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["228"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"originalRetailPrice":[{"@currencyId":"USD","__value__":"69.99"}],"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["323794916597"],"title":["New Balance Men's 009 Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs2.ebaystatic.com\/pict\/3237949165974040_2.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-009-Shoes-Grey-\/323794916597?var=512790678513"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"sellingState":["Active"],"timeLeft":["P0DT14H36M3S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2019-05-01T20:59:32.000Z"],"endTime":["2019-10-01T20:59:32.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["261"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"originalRetailPrice":[{"@currencyId":"USD","__value__":"69.99"}],"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["323794916597"],"title":["New Balance Men's 009 Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs2.ebaystatic.com\/pict\/3237949165974040_2.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-009-Shoes-Grey-\/323794916597?var=512790678517"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"34.99"}],"sellingState":["Active"],"timeLeft":["P0DT14H36M3S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2019-05-01T20:59:32.000Z"],"endTime":["2019-10-01T20:59:32.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["225"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"originalRetailPrice":[{"@currencyId":"USD","__value__":"69.99"}],"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["202473515009"],"title":["New Balance Men's Fresh Foam Sport Shoes Black"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs1.ebaystatic.com\/pict\/04040_0.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-Fresh-Foam-Sport-Shoes-Black-\/202473515009?var=0"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"41.24"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"41.24"}],"sellingState":["Active"],"timeLeft":["P16DT14H30M33S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2018-10-17T20:54:02.000Z"],"endTime":["2019-10-17T20:54:02.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["1473"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["202434093504"],"title":["New Balance Men's Classic 993 Running Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs1.ebaystatic.com\/pict\/04040_0.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-Classic-993-Running-Shoes-Grey-\/202434093504?var=0"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"0.0"}],"shippingType":["Free"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"134.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"134.99"}],"sellingState":["Active"],"timeLeft":["P10DT11H30M29S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2018-09-11T17:53:58.000Z"],"endTime":["2019-10-11T17:53:58.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["1464"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["202473515177"],"title":["New Balance Men's Fresh Foam Sport Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs1.ebaystatic.com\/pict\/04040_0.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-Fresh-Foam-Sport-Shoes-Grey-\/202473515177?var=0"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"7.95"}],"shippingType":["Flat"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"41.24"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"41.24"}],"sellingState":["Active"],"timeLeft":["P16DT14H30M55S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2018-10-17T20:54:24.000Z"],"endTime":["2019-10-17T20:54:24.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["417"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["202740829217"],"title":["New Balance Men's 990V4 Made In Us Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs2.ebaystatic.com\/pict\/2027408292174040_2.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-990V4-Made-Us-Shoes-Grey-\/202740829217?var=502876647881"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"0.0"}],"shippingType":["Free"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"99.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"99.99"}],"sellingState":["Active"],"timeLeft":["P22DT14H51M35S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2019-07-23T21:15:04.000Z"],"endTime":["2019-10-23T21:15:04.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["79"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"originalRetailPrice":[{"@currencyId":"USD","__value__":"174.99"}],"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]},{"itemId":["202434093504"],"title":["New Balance Men's Classic 993 Running Shoes Grey"],"globalId":["EBAY-US"],"subtitle":["The Official New Balance Outlet Store - Fast Shipping"],"primaryCategory":[{"categoryId":["15709"],"categoryName":["Athletic Shoes"]}],"galleryURL":["https:\/\/thumbs1.ebaystatic.com\/pict\/2024340935044040_1.jpg"],"viewItemURL":["https:\/\/www.ebay.com\/itm\/New-Balance-Mens-Classic-993-Running-Shoes-Grey-\/202434093504?var=502464307561"],"paymentMethod":["PayPal"],"autoPay":["true"],"location":["USA"],"country":["US"],"shippingInfo":[{"shippingServiceCost":[{"@currencyId":"USD","__value__":"0.0"}],"shippingType":["Free"],"shipToLocations":["Worldwide"],"expeditedShipping":["true"],"oneDayShippingAvailable":["false"],"handlingTime":["1"]}],"sellingStatus":[{"currentPrice":[{"@currencyId":"USD","__value__":"134.99"}],"convertedCurrentPrice":[{"@currencyId":"USD","__value__":"134.99"}],"sellingState":["Active"],"timeLeft":["P10DT11H30M29S"]}],"listingInfo":[{"bestOfferEnabled":["false"],"buyItNowAvailable":["false"],"startTime":["2018-09-11T17:53:58.000Z"],"endTime":["2019-10-11T17:53:58.000Z"],"listingType":["FixedPrice"],"gift":["false"],"watchCount":["114"]}],"returnsAccepted":["true"],"condition":[{"conditionId":["1000"],"conditionDisplayName":["New with box"]}],"isMultiVariationListing":["true"],"discountPriceInfo":[{"originalRetailPrice":[{"@currencyId":"USD","__value__":"149.99"}],"pricingTreatment":["STP"],"soldOnEbay":["false"],"soldOffEbay":["false"]}],"topRatedListing":["false"]}]}],"paginationOutput":[{"pageNumber":["1"],"entriesPerPage":["10"],"totalPages":["73201"],"totalEntries":["732003"]}],"itemSearchURL":["https:\/\/www.ebay.com\/sch\/i.html?_nkw=New+balance&_ddo=1&_ipg=10&_pgn=1"]}]}
+{
+    "findItemsByKeywordsResponse": [
+        {
+            "ack": [
+                "Success"
+            ],
+            "version": [
+                "1.13.0"
+            ],
+            "timestamp": [
+                "2019-10-08T07:21:05.235Z"
+            ],
+            "searchResult": [
+                {
+                    "@count": "10",
+                    "item": [
+                        {
+                            "itemId": [
+                                "113823401868"
+                            ],
+                            "title": [
+                                "Apple AirPods 2nd Generation Airpods Select Left Right or Both - Genuine Apple"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs1.ebaystatic.com/pict/113823401868404000000003_1.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-AirPods-2nd-Generation-Airpods-Select-Left-Right-Both-Genuine-Apple-/113823401868?var=414029893210"
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "75230"
+                            ],
+                            "location": [
+                                "Dallas,TX,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "1"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "104.98"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "104.98"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P10DT15H24M6S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-07-18T22:45:11.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-18T22:45:11.000Z"
+                                    ],
+                                    "listingType": [
+                                        "StoreInventory"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "963"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "false"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "2500"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Seller refurbished"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "true"
+                            ],
+                            "topRatedListing": [
+                                "false"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "223681060694"
+                            ],
+                            "title": [
+                                "Apple AirPods with Wireless Charging Case (2nd generation) -MRXJ2AM/A"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs3.ebaystatic.com/m/mFwkP2sX0r1GUAZju9xI-AA/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-AirPods-Wireless-Charging-Case-2nd-generation-MRXJ2AM-A-/223681060694"
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "33172"
+                            ],
+                            "location": [
+                                "Miami,FL,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "1"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "159.99"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "159.99"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P17DT12H16M43S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-09-25T19:37:48.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-25T19:37:48.000Z"
+                                    ],
+                                    "listingType": [
+                                        "FixedPrice"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "137"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1000"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "New"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "183900151657"
+                            ],
+                            "title": [
+                                "Apple AirPods 2nd Generation with Charging Case Latest Model - White Brand New"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs2.ebaystatic.com/m/m1AIOEaP61_iU8e3ZoHqZIQ/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-AirPods-2nd-Generation-Charging-Case-Latest-Model-White-Brand-New-/183900151657"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "2301759852"
+                                }
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "91201"
+                            ],
+                            "location": [
+                                "Glendale,CA,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "true"
+                                    ],
+                                    "handlingTime": [
+                                        "0"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "155.99"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "155.99"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P18DT13H42M38S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-07-26T21:03:43.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-26T21:03:43.000Z"
+                                    ],
+                                    "listingType": [
+                                        "StoreInventory"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "2359"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1000"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "New"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "143287169989"
+                            ],
+                            "title": [
+                                "Apple Airpods 2nd Generation with Wireless Charging Case MRXJ2AM/A"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "subtitle": [
+                                "FREE 1 YEAR WARRANTY, 2 DAY SHIP, 30 DAY FREE RETURNS"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs2.ebaystatic.com/m/mbSJjQa_HJBaxk1KDZ0rm6g/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-Airpods-2nd-Generation-Wireless-Charging-Case-MRXJ2AM-A-/143287169989"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "27030709108"
+                                }
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "location": [
+                                "USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "0"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "149.0"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "149.0"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P0DT11H39M56S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-06-08T19:01:01.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-08T19:01:01.000Z"
+                                    ],
+                                    "listingType": [
+                                        "FixedPrice"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "301"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1500"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Open box"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "discountPriceInfo": [
+                                {
+                                    "originalRetailPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "199.0"
+                                        }
+                                    ],
+                                    "pricingTreatment": [
+                                        "STP"
+                                    ],
+                                    "soldOnEbay": [
+                                        "false"
+                                    ],
+                                    "soldOffEbay": [
+                                        "false"
+                                    ]
+                                }
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "123879080871"
+                            ],
+                            "title": [
+                                "NEW GENUINE AUTHENTIC APPLE AIRPODS 2ND GEN LEFT/RIGHT SINGLE OR PAIR MV7N2AM/A"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "subtitle": [
+                                "ATTENTION - THIS DOES NOT INCLUDE THE CHARGING CASE"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs4.ebaystatic.com/pict/123879080871404000000003_1.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/NEW-GENUINE-AUTHENTIC-APPLE-AIRPODS-2ND-GEN-LEFT-RIGHT-SINGLE-PAIR-MV7N2AM-A-/123879080871?var=424618093427"
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "10021"
+                            ],
+                            "location": [
+                                "New York,NY,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "0"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "113.99"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "113.99"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P10DT17H21M2S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-08-19T00:42:07.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-19T00:42:07.000Z"
+                                    ],
+                                    "listingType": [
+                                        "StoreInventory"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "332"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1500"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Open box"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "true"
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "263677129983"
+                            ],
+                            "title": [
+                                "Authentic Apple AirPods In-Ear Wireless Bluetooth Headsets w/ Case MMEF2AM/A "
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "subtitle": [
+                                "FREE SHIPPING | 48HR SALE | 30-DAY RETURNS"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs4.ebaystatic.com/m/mHI0qFAlLPMjQQKWHL26Glw/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Authentic-Apple-AirPods-In-Ear-Wireless-Bluetooth-Headsets-w-Case-MMEF2AM-A-/263677129983"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "228721863"
+                                }
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "11220"
+                            ],
+                            "location": [
+                                "Brooklyn,NY,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "1"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "109.99"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "109.99"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P2DT14H23M0S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2018-05-10T21:44:05.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-10T21:44:05.000Z"
+                                    ],
+                                    "listingType": [
+                                        "FixedPrice"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "4206"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "2500"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Seller refurbished"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "323941156456"
+                            ],
+                            "title": [
+                                "Apple AirPods 2nd Generation with Wireless Charging Case - White (MRXJ2BE/A)"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs1.ebaystatic.com/m/mOw-UZLzxx198b3OzP8QfXQ/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-AirPods-2nd-Generation-Wireless-Charging-Case-White-MRXJ2BE-A-/323941156456"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "27030709108"
+                                }
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "33141"
+                            ],
+                            "location": [
+                                "Miami Beach,FL,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingType": [
+                                        "Calculated"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "false"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "3"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "129.0"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "129.0"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P30DT15H42M9S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-10-07T23:04:14.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-11-07T23:03:14.000Z"
+                                    ],
+                                    "listingType": [
+                                        "FixedPrice"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "31"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "false"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1000"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "New"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "topRatedListing": [
+                                "false"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "362247842258"
+                            ],
+                            "title": [
+                                "Apple AirPods with Charging Case White MMEF2AM/A Airpod 1st Gen"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "subtitle": [
+                                "FREE 1 YEAR WARRANTY, 2 DAY SHIP, 30 DAY FREE RETURNS"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs3.ebaystatic.com/m/mQV2C4693cujehdGO3ivung/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-AirPods-Charging-Case-White-MMEF2AM-A-Airpod-1st-Gen-/362247842258"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "228721863"
+                                }
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "location": [
+                                "USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "0"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "115.0"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "115.0"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P12DT17H58M3S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2018-02-21T01:19:08.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-21T01:19:08.000Z"
+                                    ],
+                                    "listingType": [
+                                        "FixedPrice"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "7545"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1500"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Open box"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "283632603807"
+                            ],
+                            "title": [
+                                "Apple AirPods 1st Generation with Charging Case White Used Decent Genuine 100%"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs4.ebaystatic.com/m/mWUitYrXfOPUsrNCjknpAsw/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Apple-AirPods-1st-Generation-Charging-Case-White-Used-Decent-Genuine-100-/283632603807"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "2301759852"
+                                }
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "postalCode": [
+                                "95315"
+                            ],
+                            "location": [
+                                "Delhi,CA,USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "false"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "2"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "94.99"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "94.99"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P26DT16H46M47S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-10-04T00:07:52.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-11-04T00:07:52.000Z"
+                                    ],
+                                    "listingType": [
+                                        "StoreInventory"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "132"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "3000"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Used"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "topRatedListing": [
+                                "false"
+                            ]
+                        },
+                        {
+                            "itemId": [
+                                "133063253397"
+                            ],
+                            "title": [
+                                "Genuine Apple Airpods White 2nd Generation MV7N2AM/A w/ Wired Charging Case"
+                            ],
+                            "globalId": [
+                                "EBAY-US"
+                            ],
+                            "subtitle": [
+                                "FREE 1 YEAR WARRANTY, 2 DAY SHIP, 30 DAY FREE RETURNS"
+                            ],
+                            "primaryCategory": [
+                                {
+                                    "categoryId": [
+                                        "80077"
+                                    ],
+                                    "categoryName": [
+                                        "Headsets"
+                                    ]
+                                }
+                            ],
+                            "galleryURL": [
+                                "https://thumbs2.ebaystatic.com/m/m2ICp0tirYIy81pDh0wh1Lw/140.jpg"
+                            ],
+                            "viewItemURL": [
+                                "https://www.ebay.com/itm/Genuine-Apple-Airpods-White-2nd-Generation-MV7N2AM-A-w-Wired-Charging-Case-/133063253397"
+                            ],
+                            "productId": [
+                                {
+                                    "@type": "ReferenceID",
+                                    "__value__": "2301759852"
+                                }
+                            ],
+                            "paymentMethod": [
+                                "PayPal"
+                            ],
+                            "autoPay": [
+                                "true"
+                            ],
+                            "location": [
+                                "USA"
+                            ],
+                            "country": [
+                                "US"
+                            ],
+                            "shippingInfo": [
+                                {
+                                    "shippingServiceCost": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "0.0"
+                                        }
+                                    ],
+                                    "shippingType": [
+                                        "Free"
+                                    ],
+                                    "shipToLocations": [
+                                        "Worldwide"
+                                    ],
+                                    "expeditedShipping": [
+                                        "true"
+                                    ],
+                                    "oneDayShippingAvailable": [
+                                        "false"
+                                    ],
+                                    "handlingTime": [
+                                        "0"
+                                    ]
+                                }
+                            ],
+                            "sellingStatus": [
+                                {
+                                    "currentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "139.0"
+                                        }
+                                    ],
+                                    "convertedCurrentPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "139.0"
+                                        }
+                                    ],
+                                    "sellingState": [
+                                        "Active"
+                                    ],
+                                    "timeLeft": [
+                                        "P16DT22H28M58S"
+                                    ]
+                                }
+                            ],
+                            "listingInfo": [
+                                {
+                                    "bestOfferEnabled": [
+                                        "false"
+                                    ],
+                                    "buyItNowAvailable": [
+                                        "false"
+                                    ],
+                                    "startTime": [
+                                        "2019-05-25T05:50:03.000Z"
+                                    ],
+                                    "endTime": [
+                                        "2019-10-25T05:50:03.000Z"
+                                    ],
+                                    "listingType": [
+                                        "FixedPrice"
+                                    ],
+                                    "gift": [
+                                        "false"
+                                    ],
+                                    "watchCount": [
+                                        "2148"
+                                    ]
+                                }
+                            ],
+                            "returnsAccepted": [
+                                "true"
+                            ],
+                            "condition": [
+                                {
+                                    "conditionId": [
+                                        "1500"
+                                    ],
+                                    "conditionDisplayName": [
+                                        "Open box"
+                                    ]
+                                }
+                            ],
+                            "isMultiVariationListing": [
+                                "false"
+                            ],
+                            "discountPriceInfo": [
+                                {
+                                    "originalRetailPrice": [
+                                        {
+                                            "@currencyId": "USD",
+                                            "__value__": "159.0"
+                                        }
+                                    ],
+                                    "pricingTreatment": [
+                                        "STP"
+                                    ],
+                                    "soldOnEbay": [
+                                        "false"
+                                    ],
+                                    "soldOffEbay": [
+                                        "false"
+                                    ]
+                                }
+                            ],
+                            "topRatedListing": [
+                                "true"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "paginationOutput": [
+                {
+                    "pageNumber": [
+                        "1"
+                    ],
+                    "entriesPerPage": [
+                        "10"
+                    ],
+                    "totalPages": [
+                        "4425"
+                    ],
+                    "totalEntries": [
+                        "44243"
+                    ]
+                }
+            ],
+            "itemSearchURL": [
+                "https://www.ebay.com/sch/i.html?_nkw=apple+airpods+2&_ddo=1&_ipg=10&_pgn=1"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+    <div class="row h-75 justify-content-center align-items-center">
+        <div class="col-12">
+            <h1 class="display-4 my-4">Hello there!</h1>
+            <p class="lead">Welcome to the "find it on eBay" web page. Enter the name of the thing you want to find here:</p>
+            <form method="GET" class="input-group mb-3">
+                {% csrf_token %}
+                <input type="text" class="form-control" placeholder="iPhone 11 Pro Max" name="keywords">
+                <button class="btn btn-danger mx-1 px-4">Find!</button>
+            </form>
+            <p>Or, you can try our <a href="#">API</a></p>
+        </div>
+        <div class="bg-light p-4">
+            {% for y in found_items %}
+                <a href="{{ y.viewItemURL|safe }}">{{ y.title|safe }}</p>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock content %}
