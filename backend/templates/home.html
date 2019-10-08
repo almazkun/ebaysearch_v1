@@ -15,7 +15,7 @@
         </div>
         <div class="bg-light p-4">
             {% for y in found_items.findItemsByKeywordsResponse.0.searchResult.0.item %}
-                <a href="{{ y.viewItemURL }}">{{ y.title }}</p>
+                <a href="{{ y.viewItemURL|safe }}">{{ y.title|safe }}</p>
             {% endfor %}
         </div>
     </div>

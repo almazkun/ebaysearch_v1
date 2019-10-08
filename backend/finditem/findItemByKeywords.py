@@ -31,7 +31,7 @@ def to_json(text):
 
 
 # For development only, not to make to many calls to the ebay_api
-def to_json_development(text):
+def to_json_development():
 
     with open("response.json", "r") as file:
         found_items = file.read()
