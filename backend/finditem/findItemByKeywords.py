@@ -35,9 +35,17 @@ def to_json_development():
 
 
 def json_items():
+    items = []
     a = to_json_development()["findItemsByKeywordsResponse"][0]["searchResult"][0][
         "item"
     ]
-    for b in a:
-        print(b)
-    return a
+    
+    for item in a:
+        i = dict()
+        i["title"] = item["title"][0]
+        i["price"] = item["sellingStatus"][0]["currentPrice"][0]["__value__"]
+        i["pic_url"] = item["galleryURL"][0]
+        i["ebay_url"] = item["viewItemURL"][0]
+        print(items)
+        items.append(i)
+    return items
