@@ -11,7 +11,7 @@ def api_request(keyword):
         "RESPONSE-DATA-FORMAT": "JSON",
         "REST-PAYLOAD": "REST-PAYLOAD",
         "keywords": keyword,
-        "paginationInput": 100,
+        "paginationInput": 10,
         "GLOBAL-ID": "EBAY-US",
         "siteid": "0",
         "topRatedListing":"true",
@@ -25,12 +25,7 @@ def api_request(keyword):
 
 
 def to_json(response):
-    data = response.json()
-    
-    with open("new_response.json", "w") as file:
-        json.dump(data, file)
-
-    return data
+    return response.json()
 
 
 # For development only, not to make to many calls to the ebay_api
@@ -43,19 +38,27 @@ def to_json_development():
 
 def json_items(to_json):
     items = []
-
-    a = to_json["findItemsByKeywordsResponse"][0]["searchResult"][0][
-        "item"
-    ]
     
-    for item in a:
-        i = dict()
-        i["title"] = item["title"][0]
-        i["price"] = item["sellingStatus"][0]["currentPrice"][0]["__value__"]
-        i["pic_url"] = item["galleryURL"][0]
-        i["ebay_url"] = item["viewItemURL"][0]
-        i["condition"] = item["condition"][0]["conditionDisplayName"][0]
-        
-        print(items)
-        items.append(i)
+    a = to_json["findItemsByKeywordsResponse"][0]
+    
+    if "searchResult" in a:
+        for item in a["searchResult"][0]["item"]:
+            i = dict()
+
+            print("-" * 50)
+            print(item.get("condition")[0])
+            print("-" * 50)
+
+            i["title"] = item.get("title")[0]
+            i["price"] = item["sellingStatus"][0]["currentPrice"][0]["__value__"]
+            i["pic_url"] = item["galleryURL"][0]
+            i["ebay_url"] = item["viewItemURL"][0]
+
+
+            i["condition"] = item["condition"][0]["conditionDisplayName"][0]
+            
+            items.append(i)
+
+    else:
+        return ["Please try again"]
     return items
