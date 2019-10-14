@@ -11,16 +11,16 @@ def api_request(keyword):
         "RESPONSE-DATA-FORMAT": "JSON",
         "REST-PAYLOAD": "REST-PAYLOAD",
         "keywords": keyword,
-        "paginationInput": 10,
+        "paginationInput": 1,
         "GLOBAL-ID": "EBAY-US",
         "siteid": "0",
-        "topRatedListing":"true",
-        "Condition":"New",
+        "topRatedListing": "true",
+        "Condition": "New",
     }
     url = "https://svcs.ebay.com/services/search/FindingService/v1?SECURITY-APPNAME={SECURITY-APPNAME}&OPERATION-NAME={OPERATION-NAME}&SERVICE-VERSION={SERVICE-VERSION}&RESPONSE-DATA-FORMAT={RESPONSE-DATA-FORMAT}&REST-PAYLOAD&keywords={keywords}&paginationInput.entriesPerPage={paginationInput}&GLOBAL-ID={GLOBAL-ID}&siteid={siteid}&topRatedListing={topRatedListing}&itemFilter(0).name=Condition&itemFilter(0).value={Condition}".format(
         **ebay_conf
     )
-    
+
     return requests.get(url)
 
 
@@ -28,37 +28,21 @@ def to_json(response):
     return response.json()
 
 
-# For development only, not to make to many calls to the ebay_api
-def to_json_development():
-
-    with open("response.json", "r") as file:
-        found_items = file.read()
-    return json.loads(found_items)
-
-
 def json_items(to_json):
     items = []
-    
+
     a = to_json["findItemsByKeywordsResponse"][0]
-    
+
     if "searchResult" in a:
         for item in a["searchResult"][0]["item"]:
             i = dict()
-
-            print("-" * 50)
-            print(item.get("condition")[0])
-            print("-" * 50)
-
             i["title"] = item.get("title")[0]
             i["price"] = item["sellingStatus"][0]["currentPrice"][0]["__value__"]
             i["pic_url"] = item["galleryURL"][0]
             i["ebay_url"] = item["viewItemURL"][0]
-
-
             i["condition"] = item["condition"][0]["conditionDisplayName"][0]
-            
             items.append(i)
-
     else:
         return ["Please try again"]
+
     return items
