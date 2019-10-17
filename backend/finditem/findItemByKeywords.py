@@ -3,6 +3,10 @@ import requests, json
 from ebay_api_auth_keys_secret import security_appname
 
 
+class ParserError(Exception):
+    pass
+
+
 def api_request(keyword):
     ebay_conf = {
         "SECURITY-APPNAME": security_appname,
@@ -11,7 +15,7 @@ def api_request(keyword):
         "RESPONSE-DATA-FORMAT": "JSON",
         "REST-PAYLOAD": "REST-PAYLOAD",
         "keywords": keyword,
-        "paginationInput": 1,
+        "paginationInput": 10,
         "GLOBAL-ID": "EBAY-US",
         "siteid": "0",
         "topRatedListing": "true",
@@ -20,12 +24,17 @@ def api_request(keyword):
     url = "https://svcs.ebay.com/services/search/FindingService/v1?SECURITY-APPNAME={SECURITY-APPNAME}&OPERATION-NAME={OPERATION-NAME}&SERVICE-VERSION={SERVICE-VERSION}&RESPONSE-DATA-FORMAT={RESPONSE-DATA-FORMAT}&REST-PAYLOAD&keywords={keywords}&paginationInput.entriesPerPage={paginationInput}&GLOBAL-ID={GLOBAL-ID}&siteid={siteid}&topRatedListing={topRatedListing}&itemFilter(0).name=Condition&itemFilter(0).value={Condition}".format(
         **ebay_conf
     )
-
-    return requests.get(url)
+    try:
+        return requests.get(url)
+    except:
+        raise ParserError(["Connection error"])
 
 
 def to_json(response):
-    return response.json()
+    try:
+        return response.json()
+    except:
+        raise ParserError(["Converting error"])
 
 
 def json_items(to_json):
