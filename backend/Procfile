@@ -1,1 +1,1 @@
-web: gunicorn ebaysearch_project.wsgi --log-file -
+web: gunicorn ebaysearch_progect.wsgi --log-file -
