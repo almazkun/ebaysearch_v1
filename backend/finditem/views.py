@@ -20,3 +20,4 @@ def keywordSearchView(request):
         response = in_json_items(json_items(to_json(api_request(request.GET["keywords"]))))
 
         return HttpResponse(response, content_type='application/json')
+    return HttpResponse(["try: api/v1/?&keywords=iphone+11"])
