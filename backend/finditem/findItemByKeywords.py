@@ -3,7 +3,7 @@ import requests, json
 from ebay_api_auth_keys_secret import security_appname
 
 
-class ParserError(Exception):
+class FIBKError(Exception):
     pass
 
 
@@ -27,14 +27,14 @@ def api_request(keyword):
     try:
         return requests.get(url)
     except:
-        raise ParserError(["Connection error"])
+        raise FIBKError(["Connection error"])
 
 
 def to_json(response):
     try:
         return response.json()
     except:
-        raise ParserError(["Converting error"])
+        raise FIBKError(["Converting error"])
 
 
 def json_items(to_json):
@@ -55,3 +55,10 @@ def json_items(to_json):
         return ["Please try again"]
 
     return items
+
+
+def in_json_items(items):
+    try:
+        return json.dumps(items)
+    except:
+        raise FIBKError(["Dumps Error"])
